@@ -239,7 +239,7 @@ File Name: `{data['file_name']}`
 Size: **{data["size"]}** 
 Direct Link: [Click Here](https://t.me/TeraboxDownloadeR_Robot?start={uuid})
 
-@Ultroid_Official
+@TERABOXSUPPORT01 
 """,
             supports_streaming=True,
             spoiler=True,
