@@ -263,7 +263,7 @@ File Name: `{data['file_name']}`
 Size: **{data["size"]}** 
 Direct Link: [Click Here](https://t.me/TeraboxDownloader_Robot?start={uuid})
 
-@ultroid_official
+@TERABOXSUPPORT01 
 """,
             progress_callback=progress_bar,
             thumb=thumbnail if thumbnail else None,
